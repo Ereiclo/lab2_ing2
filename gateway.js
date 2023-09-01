@@ -2,7 +2,7 @@
 const axios = require('axios');
 const express = require("express");
 const app = express();
-const { puerto, ip, protocolo, ruta } = require("./info.json");
+const { puerto, ip, protocolo, ruta } = require("./util/info.json");
 
 const enlace = require("./enlace.js");
 
