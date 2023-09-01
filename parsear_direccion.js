@@ -1,0 +1,1 @@
+export default function enlace(metodo, ip, puerto)

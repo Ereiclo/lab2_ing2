@@ -1,0 +1,21 @@
+{
+    "puerto": {
+        "gateway": 3001,
+        "microservicio_letra": 8080,
+        "microservicio_data": 8081
+    },
+    "protocolo":{
+        "gateway": "http",
+        "microservicio_letra": "http",
+        "microservicio_data": "http"
+    },
+    "ip": {
+        "gateway": "localhost",
+        "microservicio_letra": "localhost",
+        "microservicio_data": "localhost"
+    },
+    "ruta": {
+        "microservicio_letra": "/artist-lyrics",
+        "microservicio_data": "/artist-data"
+    }
+}
